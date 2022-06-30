@@ -116,7 +116,7 @@ class Node implements \ArrayAccess, \IteratorAggregate
     /**
      * Get a specific node.
      */
-    public function offsetGet($name): mixed
+    public function offsetGet($name): Library
     {
         if (!isset($this[$name])) {
             throw new Protocol\Exception(
