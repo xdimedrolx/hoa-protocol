@@ -140,7 +140,7 @@ class Protocol extends Node
         $this[] = new Node\Library(
             'Library',
             $root . DS . 'Hoathis' . DS . RS .
-            $root . DS . 'Hoa' . DS
+            $root . DS . 'Hoa' . DS . RS . $root . DS . 'hiqdev' . DS . 'hoa-'
         );
     }
 
