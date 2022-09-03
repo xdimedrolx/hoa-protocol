@@ -1,5 +1,5 @@
 {
-    "name"       : "hiqdev/hoa-protocol",
+    "name"       : "xdimedrolx/hoa-protocol",
     "description": "The Hiqdev Hoa\\Protocol library.",
     "type"       : "library",
     "keywords"   : ["library", "protocol", "resource", "stream", "wrapper"],
